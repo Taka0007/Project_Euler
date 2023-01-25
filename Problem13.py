@@ -5,11 +5,8 @@ class Solve:
 
   
   def ans(self):
-
     ans_str = str(sum(num))
-
     return ans_str[:10]
-
 
 if __name__ =='__main__':
 
